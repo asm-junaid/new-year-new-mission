@@ -87,3 +87,31 @@ body{
     font-weight: 700;
     padding-left: 20px;
 }
+
+/* -----------------------Event Section Design-------------------------- */
+
+.event-section{
+    margin-bottom: 70px;
+    background: linear-gradient(to top, #ffccff 0%, #ff99ff 80%);
+    padding: 120px 300px;
+    border-radius: 10px;
+}
+.event-text{
+    text-align: center;
+}
+.event-text h3{
+    font-size: 30px;
+    font-weight: 600px;
+}
+.event-text h3 span{
+    color: #f00;
+}
+.event-join-button{
+    font-size: 20px;
+    font-weight: 700;
+    padding: 10px 20px;
+    border-radius: 8px;
+    border: 0;
+    color: #fff;
+    background-color: #f00;
+}
