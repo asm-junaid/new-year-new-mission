@@ -115,3 +115,77 @@ body{
     color: #fff;
     background-color: #f00;
 }
+
+/* ----------------Coming Soon Section----------------------- */
+
+.coming-soon-section{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 50px;
+}
+.coming-soon-left{
+    max-width: 350px;
+}
+.coming-soon-left h2{
+    margin: 0;
+    padding: 0;
+}
+.coming-soon-left h3{
+    margin: 0;
+}
+.comsoon-title{
+    font-size: 20px;
+    color: #f00;
+}
+.comsooon-btitle{
+    font-size: 40px;
+    font-weight: 900;
+}
+.comsoon-para{
+    font-size: 18px;
+}
+.coming-soon-right{
+    max-width: 350px;
+}
+.comsoon-right-title{
+    font-size: 45px;
+    font-weight: 700;
+    color: #f00;
+}
+.comsoon-right-para{
+    font-size: 20px;
+    font-weight: 400;
+}
+.coming-soon-center{
+    border: 15px solid #f00;
+    border-radius: 220px;
+    padding: 20px;
+    justify-content: center;
+    max-width: 400px;
+}
+
+/* Holydays Sale Section */
+
+.holydays-sale-section{
+    text-align: center;
+    margin-bottom: 50px;
+
+}
+.sale-subtitle{
+    font-size: 20px;
+    font-weight: 400;
+}
+.sale-percent{
+    font-size: 65px;
+    font-weight: 900;
+    margin: 0;
+}
+.sale-percent span{
+    color: #f00;
+}
+.sale-para{
+    font-size: 20px;
+    font-weight: 400;
+    padding: 0 200px;
+}
