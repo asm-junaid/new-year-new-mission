@@ -224,6 +224,7 @@ body{
     text-align: center;
     background: rgba(255, 0, 0, 0.237);
     padding: 40px 0 40px 0;
+    margin-bottom: 100px;
 }
 .newsletter-section img{
     height: 150px;
