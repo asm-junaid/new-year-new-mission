@@ -264,3 +264,53 @@ body{
     border-top-right-radius: 30px;
     border-bottom-right-radius: 30px;
 }
+
+/* -------------------Footer Section Desogn-----------------*/
+
+footer{
+    background: #070211;
+}
+footer h3{
+    font-size: 20px;
+    color: #FFF;
+}
+.foot-address-section{
+    padding: 100px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.foot-phone-details{
+    display: flex;
+    align-items: center;
+}
+.foot-phone-details img{
+    height: 30px;
+    width: 30px;
+    padding-right: 10px;
+}
+.foot-web-details{
+    align-items: center;
+    display: flex;
+}
+.foot-web-details img{
+    height: 30px;
+    width: 30px;
+    padding-right: 10px;
+}
+.foot-icons{
+    text-align: center;
+}
+.foot-icons img{
+    height: 35px;
+    width: 35px;
+    padding-right: 20px;
+    padding-bottom: 100px;
+}
+.foot-rights-section{
+    display: flex;
+    justify-content: space-between;
+    padding-right: 100px;
+    padding-left: 100px;
+    padding-bottom: 50px;
+}
