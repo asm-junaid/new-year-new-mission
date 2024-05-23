@@ -189,3 +189,32 @@ body{
     font-weight: 400;
     padding: 0 200px;
 }
+
+/* ---------------------------Portfolio Section Design---------------------------- */
+
+.port-sub-head{
+    color: #f00;
+    font-size: 20px;
+    font-weight: 500;
+    margin: 0;
+}
+.port-head{
+    margin: 10px 0 0 0;
+    font-size: 45px;
+    font-weight: 900;
+}
+.port-details{
+    font-size: 20px;
+    font-weight: 400;
+    max-width: 750px;
+}
+.port-image-l1{
+    display: flex;
+    justify-content: space-between;
+    padding-bottom: 40px;
+}
+.port-image-l2{
+    display: flex;
+    justify-content: space-between;
+    padding-bottom: 80px;
+}
