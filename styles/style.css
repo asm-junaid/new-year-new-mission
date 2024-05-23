@@ -218,3 +218,49 @@ body{
     justify-content: space-between;
     padding-bottom: 80px;
 }
+/* -------------------Newsletter Section Design------------------------ */
+
+.newsletter-section{
+    text-align: center;
+    background: rgba(255, 0, 0, 0.237);
+    padding: 40px 0 40px 0;
+}
+.newsletter-section img{
+    height: 150px;
+    width: 150px;
+}
+.news-title{
+    font-size: 45px;
+    font-weight: 900;
+    margin: 0;
+}
+.news-para-div{
+    display: flex;
+    justify-content: center;
+}
+.news-para{
+    font-size: 20px;
+    font-weight: 400;
+    max-width: 750px;
+}
+.subscribe-section{
+    gap: 0px;
+}
+.sub-input{
+    margin: 0;
+    font-size: 25px;
+    border: none;
+    padding: 25px 0 25px 30px;
+    border-top-left-radius: 30px;
+    border-bottom-left-radius: 30px;
+}
+.sub-button{
+    margin: 0;
+    font-size: 20px;
+    padding: 25px 56px;
+    background-color: #f00;
+    color: #FFF;
+    border: none;
+    border-top-right-radius: 30px;
+    border-bottom-right-radius: 30px;
+}
